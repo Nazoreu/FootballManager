@@ -1,6 +1,8 @@
 # FootballManager
 ## Simple java 101 project for learning basic OOP principles and java.
 
+[![Build Status](https://travis-ci.org/mshemanskyi/FootballManager.svg?branch=master)](https://travis-ci.org/mshemanskyi/FootballManager)
+
 ### How to run:
 - Intelijy IDEA
 1. Edit configuration
